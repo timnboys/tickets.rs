@@ -43,6 +43,7 @@ skip-initial-guild-creates = []
 
 [[bin]]
 name = "public"
+allow-non-simd = true
 
 [[bin]]
 name = "whitelabel"
